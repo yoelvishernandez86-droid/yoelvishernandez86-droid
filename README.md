@@ -52,12 +52,6 @@ Actualmente estoy:
 - Mentalidad de mejora continua
 - Interés en backend, arquitectura y buenas prácticas
 
-## 📊 Actividad en GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoelvishernandez86-droid&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoelvishernandez86-droid&layout=compact&theme=default)
-
 ---
 
 ## 🌎 Contacto
